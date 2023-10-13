@@ -6,7 +6,7 @@
 
 Сейчас основной упор делаю на изучение Java, пишу трекер для задачек.
 
-Прошел обучение в ЯП. Все основные тезисы можно посмотреть у меня в резюме <a href="[https://drive.google.com/file/d/1XbneGepbSmCLRZG3grIXPhs3XMFc-JS9/view?usp=sharing](https://drive.google.com/file/d/1U_ZdZ9Sf7tct4va303uhF77UnZvIaAgA/view?usp=sharing)">Тык</a>.
+Прошел обучение в ЯП. Все основные тезисы можно посмотреть у меня в резюме <a href="https://drive.google.com/file/d/1U_ZdZ9Sf7tct4va303uhF77UnZvIaAgA/view?usp=sharing">Тык</a>.
 
 Есть базовое понимание основ программирования на C#. Могу решать не очень сложные задачки. 
 
